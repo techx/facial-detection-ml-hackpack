@@ -14,4 +14,3 @@ For more resources to get started with a machine learning project, we recommend 
 * [Get Started with Tensorflow](https://www.tensorflow.org/tutorials)
 * [Get Started with Pytorch](https://pytorch.org/tutorials/beginner/basics/intro.html)
 * [Hugging Face Tutorials](https://huggingface.co/learn/nlp-course/chapter1/1)
-* 
